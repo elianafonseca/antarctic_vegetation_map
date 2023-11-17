@@ -6,13 +6,13 @@
 <img width="709" alt="image" src="https://github.com/elianafonseca/antarctic_vegetation_map/assets/85770141/868114db-d33e-440f-ae99-67d82768cf90">
 
 
-GEE app for Antarctic vegetation map:
+Antarctic vegetation map (app):
 
+https://egeescripts.users.earthengine.app/view/antarcticvegetationmap
 
-GEE code for Antarctic vegetation map:
+Google Earth Engine code:
 
 https://code.earthengine.google.com/?accept_repo=users/eliana_ufrgs/vegetation_map
-
 
 Subsets shapefiles:
 
