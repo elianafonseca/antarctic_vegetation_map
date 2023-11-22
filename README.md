@@ -4,9 +4,13 @@
 
 
 FONSECA EL et al. 2023. The use of sentinel-2 
-imagery to generate vegetations maps for the Northern
+
+imagery to generate vegetation maps for the Northern
+
 Antarctic Peninsula and offshore islands. 
+
 An Acad Bras Cienc 95: e20230710. 
+
 DOI 10.1590/0001-3765202320230710.
 
 
