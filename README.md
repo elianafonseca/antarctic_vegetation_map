@@ -14,6 +14,7 @@ Antarctic vegetation map (app):
 https://egeescripts.users.earthengine.app/view/antarcticvegetationmap
 
 Google Earth Engine code:
+
 https://code.earthengine.google.com/35fc6ea494c2c49e5da2af080603c77e
 
 Subsets shapefiles:
