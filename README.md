@@ -21,3 +21,8 @@ https://code.earthengine.google.com/35fc6ea494c2c49e5da2af080603c77e
 Subsets shapefiles:
 
 https://doi.org/10.5281/zenodo.5636633
+
+Fieldwork memories:
+
+http://arcg.is/1e5vKi
+
