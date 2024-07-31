@@ -12,7 +12,7 @@ https://doi.org/10.1590/0001-3765202320230710
 
 Antarctic vegetation map (app):
 
-https://egeescripts.users.earthengine.app/view/antarcticvegetationmap
+[https://egeescripts.users.earthengine.app/view/antarcticvegetationmap](https://egeescripts.users.earthengine.app/view/antarctic-vegetation)
 
 Google Earth Engine code:
 
